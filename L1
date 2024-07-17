@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+int main() {
+    int a = ;
+  
+    if(a % 2 == 0) {
+        printf("The number is selected \n");
+        printf("%d\n", a%2);
+    } else {
+        printf("Sorry, good luck next time \n");
+        printf("%d\n", a%2);
+    }
+
+
+    
+    return 0;
+}
+
