@@ -1,0 +1,31 @@
+#include <stdio.h>
+
+int main() {
+    int a = 9 ;
+    printf("Enter \n",a);
+    scanf("%d",&a);
+    
+    
+if (a == 11)
+
+printf("I am 11");
+else
+printf("I am not 11");
+    // Variable declarations
+    // int myInt;
+    // float myFloat;
+    // char myChar;
+    
+    // Your code goes here
+    // For example:
+    // myInt = 5;
+    // myFloat = 3.14;
+    // myChar = 'A';
+    
+    // Output statements
+    // printf("Integer: %d\n", myInt);
+    // printf("Float: %f\n", myFloat);
+    // printf("Character: %c\n", myChar);
+    
+    return 0;
+}
