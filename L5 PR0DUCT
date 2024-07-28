@@ -1,0 +1,17 @@
+
+#include <stdio.h>
+
+int main() 
+{
+    int i = 1;
+    int product = 1;
+    
+    while (i <= 10) {
+        product *= i;
+        i++;
+    }
+    
+    printf("The product of the first 10 natural numbers is: %d", product);
+    
+    return 0;
+}
