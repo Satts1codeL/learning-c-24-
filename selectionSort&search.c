@@ -14,7 +14,7 @@ void insertionSort(int arr[], int n){
 }  
   
   
-  
+
 
 int Binary(int arr[], int n, int target) {
     int left = 0, right = n - 1;
